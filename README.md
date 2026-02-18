@@ -19,11 +19,11 @@
 
 
 ## 🌐 Live Demo
-Visit [karaztiaras.github.io/karaztiaras]
+Visit [yourusername.github.io/karaztiaras]
 
 ## 📞 Connect
 - Instagram: [@karaztiaras](https://instagram.com/karaztiaras)
-- upscrolled:[@karaztiaras] (https://share.upscrolled.com/en/user/bff516d5-cf7b-470c-9e23-81af7060a80e)
+- upscrolled:[@karaztiaras](https://share.upscrolled.com/en/user/bff516d5-cf7b-470c-9e23-81af7060a80e)
 - Email: karaztiaras@hotmail.com
 
 ---
